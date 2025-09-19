@@ -1,9 +1,8 @@
-Hi, I am @Jawad-Khalil from Azad Jammu and Kashmir, Pakistan. Currently, I am a student doing MSc.
+Hi, I’m **@Jawad-Khalil** from Azad Jammu and Kashmir, Pakistan. I hold an MSc and have a strong interest in programming, focusing on frontend web development (HTML, CSS, JavaScript), along with experience in scientific and general-purpose languages. 
 
-I am developing my skills in programming languages including Python, MATLAB, SQL, HTML, JavaScript, and CSS. 
-So, I am interested in learning new things especially in the field of Programming and Mathematics to build my knowledge for my interest and profession.
+I’m passionate about continuous learning and aim to grow further by applying my skills and gaining experience through professional roles.
 
-One can reach me by Gmail: iamjawadkhalil@gmail.com
+**One can reach me by Gmail: iamjawadkhalil@gmail.com**
 
 <!---
 Jawad-Khalil/Jawad-Khalil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
